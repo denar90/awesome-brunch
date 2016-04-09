@@ -26,7 +26,7 @@
 - [Brunch with TypeScript](https://github.com/ysle/brunch-with-typescript)
 - [Exim](https://github.com/hellyeahllc/brunch-with-exim)
 - [React + Redux](https://github.com/brunch/with-redux)
-- [Brunch with MarionetteJS](https://github.com/https://github.com/denar90/brunch-with-marionettejs)
+- [Brunch with MarionetteJS](https://github.com/denar90/brunch-with-marionettejs)
 - [Weekend Brunch](https://github.com/jamesabels/Weekend-Brunch)
 - [Node-Webkit Hipster Seed](https://github.com/Anonyfox/node-webkit-hipster-seed)
 - [Brunch with Chaplin](https://github.com/paulmillr/brunch-with-chaplin)
@@ -119,7 +119,7 @@
 - [Brunch with Angular 2](https://github.com/colinbate/ng2-brunch)
 - [Bespoke Brunch](https://github.com/makenew/deck-bespoke.js)
 - [Tasty Brunch](https://github.com/makenew/tasty-brunch)
-- [Brunch with Vue](https://github.com/https://github.com/nblackburn/brunch-with-vue)
+- [Brunch with Vue](https://github.com/nblackburn/brunch-with-vue)
 
 ## Brunch plugins
 
