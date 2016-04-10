@@ -123,6 +123,10 @@
 
 ## Brunch plugins
 
+### Compilers
+
+#### Script languages
+
 - [Javascript-brunch](https://github.com/brunch/javascript-brunch)
 - [Coffeescript](https://github.com/brunch/coffee-script-brunch)
 - [Icedcoffeescript-brunch](https://github.com/brunch/iced-coffee-script-brunch)
@@ -139,6 +143,10 @@
 - [Sweet-js-brunch](https://github.com/e-jigsaw/sweet-js-brunch)
 - [Riot-brunch](https://github.com/yavorsky/riot-brunch)
 - [Glslify-brunch](https://github.com/bmatcuk/glslify-brunch)
+- [Brunch-typescript](https://github.com//baptistedonaux/brunch-typescript)
+ 
+#### Style languages
+
 - [Css-brunch](https://github.com/brunch/css-brunch)
 - [Cssnext-brunch](https://github.com/cssnext/cssnext-brunch)
 - [Stylus-brunch](https://github.com/brunch/stylus-brunch)
@@ -152,6 +160,9 @@
 - [Cssnano-brunch](https://github.com/dlepaux/cssnano-brunch)
 - [Csscomb-brunch](https://github.com/garetht/csscomb-brunch)
 - [Stylus-spritesmith-brunch](https://github.com/jas/stylus-spritesmith-brunch)
+
+####Pre-compiled templates
+
 - [Handlebars-brunch](https://github.com/brunch/handlebars-brunch)
 - [Ember-handlebars-brunch](https://github.com/bartsqueezy/ember-handlebars-brunch)
 - [Eco-brunch](https://github.com/brunch/eco-brunch)
@@ -168,13 +179,22 @@
 - [Nunjucks-brunch](https://github.com/PxlBuzzard/nunjucks-brunch)
 - [Html2js-brunch](https://github.com/aberman/html2js-brunch)
 - [React-templates-brunch](https://github.com/fraisse/react-templates-brunch)
+
+### Minifiers
+
 - [Uglifyjs-brunch](https://github.com/brunch/uglify-js-brunch)
 - [Cleancss-brunch](https://github.com/brunch/clean-css-brunch)
 - [Bless-brunch](https://github.com/ThomasConner/bless-brunch)
+
+### Linters
+
 - [Jshint-brunch](https://github.com/brunch/jshint-brunch)
 - [Coffeelint-brunch](https://github.com/ilkosta/coffeelint-brunch)
 - [Jsxhint-brunch](https://github.com/banyan/jsxhint-brunch)
 - [Eslint-brunch](https://github.com/spyl94/eslint-brunch)
+
+### Others 
+
 - [Static-site-brunch](https://github.com/devinus/static-site-brunch)
 - [Static-jade-brunch](https://github.com/ilkosta/static-jade-brunch)
 - [Static-underscore-brunch](https://github.com/slattery/static-underscore-brunch)
@@ -204,6 +224,5 @@
 - [Package-brunch](https://github.com/pierr/package-brunch)
 - [Copyfilemon-brunch](https://github.com/kasselTrankos/copyfilemon-brunch)
 - [Environment-brunch](https://github.com/colinbate/environment-brunch)
-- [Brunch-typescript](https://github.com//baptistedonaux/brunch-typescript)
 - [Vue Brunch](https://github.com/nblackburn/vue-brunch)
 - [Karma-brunch](https://github.com/denar90/karma-brunch)
