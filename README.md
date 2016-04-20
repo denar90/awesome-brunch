@@ -226,3 +226,4 @@
 - [Environment-brunch](https://github.com/colinbate/environment-brunch)
 - [Vue Brunch](https://github.com/nblackburn/vue-brunch)
 - [Karma-brunch](https://github.com/denar90/karma-brunch)
+- [Js-wrap-brunch](https://github.com/VitaliyR/js-wrap-brunch)
