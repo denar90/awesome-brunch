@@ -10,6 +10,7 @@
 - [Twitter](https://twitter.com/brunch)
 - [Documentation](https://github.com/brunch/brunch/tree/master/docs)
 - [StackOverflow](http://stackoverflow.com/questions/tagged/brunch) - Tagged questions
+- [Atom package for Brunch] (https://atom.io/packages/brunch-with-atom)
 
 ## Tutorials and articles
 
